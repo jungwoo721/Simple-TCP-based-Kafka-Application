@@ -1,4 +1,4 @@
-# Simple-TCP-based-Kafka-Application
+# Simple TCP based Kafka Application
 CSI4106 Computer Network Project 2
 
 ## Usage
